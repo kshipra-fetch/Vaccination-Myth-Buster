@@ -13,9 +13,9 @@ This project implements a **Myth Buster App** using [Fetch.ai Agents](https://fe
 ## Using Pre-Built Agents
 
 This application utilizes **pre-built agents** available on [Agentverse](https://agentverse.ai/marketplace?item_type=agents&types=hosted%2Clocal%2Cmailbox&dev_categories=fetch-ai%2Ccommunity&sort=relevancy), such as:
-- Sentiment Analysis Agent
-- Web Search Agent
-- OpenAI Agent for text generation
+- Sentiment Analysis Agent - [Agent Profile](https://agentverse.ai/agents/details/agent1qvzs7zhwdcx6rlnyzs9p9sjjq4zscd44zvx8fnpflrlu2ptvlh5fxlkwzge/profile)
+- Web Search Agent - [Agent Profile](https://agentverse.ai/agents/details/agent1qt5uffgp0l3h9mqed8zh8vy5vs374jl2f8y0mjjvqm44axqseejqzmzx9v8/profile)
+- OpenAI Agent for text generation - [Agent Profile](https://agentverse.ai/agents/details/agent1q0h70caed8ax769shpemapzkyk65uscw4xwk6dc4t3emvp5jdcvqs9xs32y/profile)
 
 However, you are not limited to these agents! **You can create your own Fetch.ai uAgents** and connect them in a similar manner. The uAgents framework is highly flexible.
 
